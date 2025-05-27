@@ -1,0 +1,8 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# page2.xhtml 파일 컨텍스트
+
+현재 [OEBPS/Text/page2.xhtml](mdc:OEBPS/Text/page2.xhtml) 파일은 프로젝트에 존재하지 않습니다. 만약 추가된다면, eBook의 또 다른 본문 또는 챕터를 담당하는 XHTML 파일로 활용될 수 있습니다.
